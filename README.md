@@ -1,5 +1,6 @@
 This project provides a comprehensive analysis of historical racing data, offering insights into driver performance, constructor achievements, race outcomes, and long-term trends across multiple seasons. The dashboard was designed to make complex datasets accessible, engaging, and easy to explore through clear visual storytelling.
 
+👉 [**Open the report here**](https://gubrie.github.io/Formula-1_Championship_project/)
 
 🔹 Data & Modeling
 
